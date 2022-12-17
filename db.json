@@ -222,5 +222,47 @@
         "sold": false,
         "id": 19
       }
+    ],
+    "zee5Admins":[
+      {
+        "id": 1,
+        "type": "admin",
+        "_firstName": "Aniket",
+        "_lastName": "Pandey",
+        "email": "aniket.pandey@zee.com",
+        "token": "admin0001"
+      },
+      {
+        "id": 2,
+        "type": "admin",
+        "_firstName": "Anirudha",
+        "_lastName": "Mandal",
+        "email": "anirudha.mandal@zee.com",
+        "token": "admin0002"
+      },
+      {
+        "id": 3,
+        "type": "admin",
+        "_firstName": "Moumita",
+        "_lastName": "Das",
+        "email": "moumita.das@zee.com",
+        "token": "admin0003"
+      },
+      {
+        "id": 4,
+        "type": "admin",
+        "_firstName": "Ritik",
+        "_lastName": "Haldar",
+        "email": "ritik.haldar@zee.com",
+        "token": "admin0004"
+      },
+      {
+        "id": 5,
+        "type": "admin",
+        "_firstName": "Sajjan",
+        "_lastName": "Kumar",
+        "email": "sajjan.kumar@zee.com",
+        "token": "admin0005"
+      }
     ]
   }
