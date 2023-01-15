@@ -264,5 +264,8 @@
         "email": "sajjan.kumar@zee.com",
         "token": "admin0005"
       }
+    ],
+    "todos":[
+        {"id" : 1, "title" : "Learn HTML", "isCompleted":false }
     ]
   }
