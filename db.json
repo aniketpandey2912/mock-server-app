@@ -264,5 +264,32 @@
       "email": "sajjan.kumar@zee.com",
       "token": "admin0005"
     }
-  ]
+  ],
+  "restaurant": {
+    "users": [
+      {
+        "id": 1,
+        "name": "Aniket",
+        "email": "aniket@gmail.com",
+        "pass": "aniket"
+      },
+      {
+        "id": 2,
+        "name": "Ashu",
+        "email": "ashu@gmail.com",
+        "pass": "ashu"
+      }
+    ],
+    "admins": [
+      { "id": 1, "name": "Admin", "email": "admin@admin.com", "pass": "admin" }
+    ],
+    "foodItem": [
+      {
+        "id": 1,
+        "name": "Pizza",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/8/86/Pizza_%281%29.jpg",
+        "price": "199"
+      }
+    ]
+  }
 }
