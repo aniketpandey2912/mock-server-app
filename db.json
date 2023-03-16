@@ -5,7 +5,7 @@
   "hotels": [
     {
       "id": 1,
-      "category": "Family",
+      "category": "Deluxe",
       "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
       "type_of_room": "non AC",
       "bed_type": "Single",
@@ -16,7 +16,7 @@
     },
     {
       "id": 2,
-      "category": "Family",
+      "category": "Suite",
       "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/suite-executive_f8c66c2108e537a094cdc0150e6f51b5.jpg",
       "type_of_room": "AC",
       "bed_type": "Double",
@@ -34,6 +34,72 @@
       "no_of_persons": "2",
       "capacity": "4",
       "cost": "5000",
+      "booked": false
+    },
+    {
+      "id": 4,
+      "category": "Deluxe",
+      "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/suite-junior_cce7a10319b0e06ec384a9bea706a047.jpg",
+      "type_of_room": "non AC",
+      "bed_type": "Single",
+      "no_of_persons": "1",
+      "capacity": "3",
+      "cost": "4400",
+      "booked": true
+    },
+    {
+      "id": 5,
+      "category": "Suite",
+      "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/suite-junior_cce7a10319b0e06ec384a9bea706a047.jpg",
+      "type_of_room": "AC",
+      "bed_type": "Double",
+      "no_of_persons": "2",
+      "capacity": "2",
+      "cost": "3300",
+      "booked": false
+    },
+    {
+      "id": 6,
+      "category": "Family",
+      "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/05/gallery-10.jpg",
+      "type_of_room": "AC",
+      "bed_type": "Double",
+      "no_of_persons": "2",
+      "capacity": "4",
+      "cost": "5500",
+      "booked": false
+    },
+    {
+      "id": 7,
+      "category": "Deluxe",
+      "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/05/gallery-13.jpg",
+      "type_of_room": "non AC",
+      "bed_type": "Single",
+      "no_of_persons": "1",
+      "capacity": "3",
+      "cost": "4900",
+      "booked": true
+    },
+    {
+      "id": 8,
+      "category": "Suite",
+      "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/05/gallery-23.jpg",
+      "type_of_room": "AC",
+      "bed_type": "Double",
+      "no_of_persons": "2",
+      "capacity": "2",
+      "cost": "3500",
+      "booked": false
+    },
+    {
+      "id": 9,
+      "category": "Family",
+      "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/05/gallery-22.jpg",
+      "type_of_room": "AC",
+      "bed_type": "Double",
+      "no_of_persons": "2",
+      "capacity": "4",
+      "cost": "5900",
       "booked": false
     }
   ]
